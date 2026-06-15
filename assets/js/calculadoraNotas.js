@@ -22,7 +22,7 @@ function evaluarEstado(promedio) {
     if (promedio >= 4) {
         return "Aprobadooo!!"
     } else {
-        return "Reprobadoooo!! :D"
+        return "Reprobadooo!! :D"
     }
 }
 
